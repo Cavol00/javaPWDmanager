@@ -1,0 +1,2 @@
+ottimizzare la clicità del programma.
+renderlo eseguibile in cmd.
